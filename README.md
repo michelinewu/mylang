@@ -1,2 +1,2 @@
 # mylang
-Just another repository
+My Made-up Language
