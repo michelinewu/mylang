@@ -1,4 +1,4 @@
 # mylang
 My Made-up Language
 
-More things
+Runs in terminal.
